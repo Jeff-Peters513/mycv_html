@@ -1,4 +1,26 @@
+/* tagname selector */
 table {
      width: 100%;
-     color: red;
+     color: black;
+
     }
+h3 {
+    color: red
+}
+
+/* ID selectors */
+#techtable{
+    color: blue;
+}
+
+#changefont {
+
+    font-family: sans-serif;
+}
+
+/* class format */
+
+.boldest{
+    color: black;
+
+}

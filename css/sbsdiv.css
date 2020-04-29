@@ -1,0 +1,6 @@
+/*  */
+#left-div, #rightdiv {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+}
